@@ -5,8 +5,7 @@
 2. El precio de cada producto es igual al número de productos que quedan en ese momento en stock (antes de venderse).
 
 SOLUCIÓN: Para resolver este ejercicio se crea un bucle que dará *m* vueltas, una por cada cliente (y por tanto por cada venta). En cada vuelta ordenamos la lista, de tal manera que tenemos controlados los productos más numerosos y, por consiguiente, los más caros. De esta manera podemos priorizar su venta para calcular el mayor beneficio.
-
-
+<br>
 **EN** - Exercise to calculate the maximum profit that a fictitious store would earn with *m* customers selling the quantity and types of products that we receive for a list.
 1. Each customer may not take more than one product.
 2. The price of each product is equal to the number of products that are currently in stock (before they are sold).
